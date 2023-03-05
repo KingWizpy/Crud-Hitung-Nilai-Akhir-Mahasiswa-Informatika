@@ -1,7 +1,7 @@
 # Simple-Website-with-search-function
 Just a Simple Website with search function using html, css, and javascript
 
-<img src="https://drive.google.com/file/d/19SKatf1wYQmc2eDlEzw1JkVUCnhgZbcT/view?usp=share_link" />
+<img src="https://ibb.co/Mc2FGF7" />
 
 ---
 
