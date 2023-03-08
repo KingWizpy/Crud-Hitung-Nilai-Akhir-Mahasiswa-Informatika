@@ -1,5 +1,4 @@
-# Simple-Website-with-search-function
-Just a Simple Website with search function using html, css, and javascript
+# Simple Crud for calculate grade
 
 <img src="https://drive.google.com/uc?id=19SKatf1wYQmc2eDlEzw1JkVUCnhgZbcT" />
 
